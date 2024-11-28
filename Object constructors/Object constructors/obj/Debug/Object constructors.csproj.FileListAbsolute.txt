@@ -1,0 +1,7 @@
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Object constructors\Object constructors\obj\Debug\Object constructors.csproj.AssemblyReference.cache
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Object constructors\Object constructors\obj\Debug\Object constructors.csproj.CoreCompileInputs.cache
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Object constructors\Object constructors\bin\Debug\Object constructors.exe.config
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Object constructors\Object constructors\bin\Debug\Object constructors.exe
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Object constructors\Object constructors\bin\Debug\Object constructors.pdb
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Object constructors\Object constructors\obj\Debug\Object constructors.exe
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Object constructors\Object constructors\obj\Debug\Object constructors.pdb
