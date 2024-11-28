@@ -30,7 +30,7 @@ namespace Object_constructors
                             Amount = converter.ConvertDollarToSEK(Amount);
                             break;
                         default:
-                            break; // No conversion needed
+                            break;
                     }
                     break;
 
@@ -44,7 +44,7 @@ namespace Object_constructors
                             Amount = converter.ConvertEuroToSEK(Amount);
                             break;
                         default:
-                            break; // No conversion needed
+                            break;
                     }
                     break;
 
@@ -58,7 +58,7 @@ namespace Object_constructors
                             Amount = converter.ConvertSEKToEuro(Amount);
                             break;
                         default:
-                            break; // No conversion needed
+                            break;
                     }
                     break;
             }
