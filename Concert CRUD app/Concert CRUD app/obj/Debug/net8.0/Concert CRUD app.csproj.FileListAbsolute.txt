@@ -1,0 +1,15 @@
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\obj\Debug\net8.0\Concert CRUD app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\obj\Debug\net8.0\Concert CRUD app.AssemblyInfoInputs.cache
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\obj\Debug\net8.0\Concert CRUD app.AssemblyInfo.cs
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\obj\Debug\net8.0\Concert CRUD app.csproj.CoreCompileInputs.cache
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\obj\Debug\net8.0\Concert CRUD app.sourcelink.json
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\bin\Debug\net8.0\Concert CRUD app.exe
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\bin\Debug\net8.0\Concert CRUD app.deps.json
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\bin\Debug\net8.0\Concert CRUD app.runtimeconfig.json
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\bin\Debug\net8.0\Concert CRUD app.dll
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\bin\Debug\net8.0\Concert CRUD app.pdb
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\obj\Debug\net8.0\Concert CRUD app.dll
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\obj\Debug\net8.0\refint\Concert CRUD app.dll
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\obj\Debug\net8.0\Concert CRUD app.pdb
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\obj\Debug\net8.0\Concert CRUD app.genruntimeconfig.cache
+C:\Users\My\source\repos\ThatMiniMi\Assignments\Concert CRUD app\Concert CRUD app\obj\Debug\net8.0\ref\Concert CRUD app.dll
