@@ -38,9 +38,9 @@
               "Title": "ConsertManager.cs",
               "DocumentMoniker": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\ConsertManager.cs",
               "RelativeDocumentMoniker": "Concert CRUD app\\ConsertManager.cs",
-              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\ConsertManager.cs*",
-              "RelativeToolTip": "Concert CRUD app\\ConsertManager.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\ConsertManager.cs",
+              "RelativeToolTip": "Concert CRUD app\\ConsertManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T07:54:15.109Z",
               "EditorCaption": ""
@@ -51,12 +51,11 @@
               "Title": "Consert.cs",
               "DocumentMoniker": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Consert.cs",
               "RelativeDocumentMoniker": "Concert CRUD app\\Consert.cs",
-              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Consert.cs*",
-              "RelativeToolTip": "Concert CRUD app\\Consert.cs*",
+              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Consert.cs",
+              "RelativeToolTip": "Concert CRUD app\\Consert.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAIwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:53:37.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T07:53:37.78Z"
             },
             {
               "$type": "Document",
@@ -64,12 +63,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Program.cs",
               "RelativeDocumentMoniker": "Concert CRUD app\\Program.cs",
-              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Program.cs*",
-              "RelativeToolTip": "Concert CRUD app\\Program.cs*",
+              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Program.cs",
+              "RelativeToolTip": "Concert CRUD app\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:38:37.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T07:38:37.928Z"
             }
           ]
         }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02B408CA-7A12-4374-98A7-1B139B328155}|Concert CRUD app\\Concert CRUD app.csproj|c:\\users\\my\\source\\repos\\thatminimi\\assignments\\concert crud app\\concert crud app\\consertmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02B408CA-7A12-4374-98A7-1B139B328155}|Concert CRUD app\\Concert CRUD app.csproj|solutionrelative:concert crud app\\consertmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02B408CA-7A12-4374-98A7-1B139B328155}|Concert CRUD app\\Concert CRUD app.csproj|c:\\users\\my\\source\\repos\\thatminimi\\assignments\\concert crud app\\concert crud app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B408CA-7A12-4374-98A7-1B139B328155}|Concert CRUD app\\Concert CRUD app.csproj|solutionrelative:concert crud app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02B408CA-7A12-4374-98A7-1B139B328155}|Concert CRUD app\\Concert CRUD app.csproj|c:\\users\\my\\source\\repos\\thatminimi\\assignments\\concert crud app\\concert crud app\\consert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02B408CA-7A12-4374-98A7-1B139B328155}|Concert CRUD app\\Concert CRUD app.csproj|solutionrelative:concert crud app\\consert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02B408CA-7A12-4374-98A7-1B139B328155}|Concert CRUD app\\Concert CRUD app.csproj|c:\\users\\my\\source\\repos\\thatminimi\\assignments\\concert crud app\\concert crud app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02B408CA-7A12-4374-98A7-1B139B328155}|Concert CRUD app\\Concert CRUD app.csproj|solutionrelative:concert crud app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02B408CA-7A12-4374-98A7-1B139B328155}|Concert CRUD app\\Concert CRUD app.csproj|c:\\users\\my\\source\\repos\\thatminimi\\assignments\\concert crud app\\concert crud app\\consertmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B408CA-7A12-4374-98A7-1B139B328155}|Concert CRUD app\\Concert CRUD app.csproj|solutionrelative:concert crud app\\consertmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ConsertManager.cs",
               "DocumentMoniker": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\ConsertManager.cs",
               "RelativeDocumentMoniker": "Concert CRUD app\\ConsertManager.cs",
-              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\ConsertManager.cs",
-              "RelativeToolTip": "Concert CRUD app\\ConsertManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\ConsertManager.cs*",
+              "RelativeToolTip": "Concert CRUD app\\ConsertManager.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowCUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T07:54:15.109Z",
               "EditorCaption": ""
@@ -51,22 +51,22 @@
               "Title": "Consert.cs",
               "DocumentMoniker": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Consert.cs",
               "RelativeDocumentMoniker": "Concert CRUD app\\Consert.cs",
-              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Consert.cs",
-              "RelativeToolTip": "Concert CRUD app\\Consert.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwCEAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Consert.cs*",
+              "RelativeToolTip": "Concert CRUD app\\Consert.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T07:53:37.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Program.cs",
               "RelativeDocumentMoniker": "Concert CRUD app\\Program.cs",
-              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Program.cs",
-              "RelativeToolTip": "Concert CRUD app\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\My\\source\\repos\\ThatMiniMi\\Assignments\\Concert CRUD app\\Concert CRUD app\\Program.cs*",
+              "RelativeToolTip": "Concert CRUD app\\Program.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T07:38:37.928Z",
               "EditorCaption": ""

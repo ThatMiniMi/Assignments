@@ -37,7 +37,7 @@
             Console.WriteLine($"Concert ID: {concert.Id}, Performer: {concert.Performer}, Revenue: {concert.CalculateRevenue():C}");
         }
     }
-public void ListConcerts()
+    public void ListConcerts()
     {
         if (concerts.Count == 0)
         {
